@@ -1,4 +1,4 @@
-**Girayhan Çakıroğlu**
+*Girayhan Çakıroğlu*
 Student / Developer / 
 
 - 👀 I’m interested in Web Development
