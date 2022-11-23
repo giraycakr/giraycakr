@@ -1,5 +1,6 @@
-#Girayhan Çakıroğlu
-Student / Developer / 
+# Girayhan Çakıroğlu
+
+Student / Developer / Traveler
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript,HTML,CSS
