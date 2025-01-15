@@ -49,10 +49,13 @@ Currently a third-year Computer Engineering student with a strong interest in Da
   <img src="https://komarev.com/ghpvc/?username=giraycakr&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect 
 <p align="center">
   <a href="https://www.linkedin.com/in/girayhancakiroglu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:girayhancakiroglu7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
